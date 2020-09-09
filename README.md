@@ -1,7 +1,8 @@
 # map
 
 线上地址：http://39.108.179.129:8283 (ladder needed)
-<img src="present.jpg">
+
+![image](https://github.com/AnthonyYangU/map/blob/master/present.JPG)
 ## Project setup
 ```
 yarn install
